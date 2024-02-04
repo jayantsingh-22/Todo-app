@@ -80,6 +80,14 @@ The objective of this test plan is to ensure comprehensive test coverage for the
    - Ensure that the count of active items is updated dynamically based on user actions.
    - Verify that the filter links work correctly and display the appropriate list view.
 
+
+### Command to run test:
+  - npm test
+
+### Tools used for testing:
+  - Jest testing library
+  - Methods @testing-library/react
+  - Memory Router
 ---
 
 ## Conclusion:
